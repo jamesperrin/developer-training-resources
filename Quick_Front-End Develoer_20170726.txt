@@ -1,0 +1,128 @@
+======================================================    
+Version Control
+======================================================
+Try Git (TUTORIAL)
+https://try.github.io
+
+Learn Git (TUTORIAL)
+https://www.codecademy.com/learn/learn-git
+
+GitHub Training & Guides (VIDEO)
+https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-
+
+Webcast • The Basics of Git and GitHub • July 2013 (VIDEO)
+http://youtu.be/U8GBXvdmHT4
+
+GIT (VIDEO)
+http://git-scm.com/videos
+
+Git Training for the .NET Team (VIDEO)
+https://youtu.be/OOiaOsuKnrc?list=PLLnDCesoFbdGbY0rK3MfoWQDvujBfBnAE
+
+How to Use Git and GitHub (COURSE)
+https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
+Git - the simple guide (Reference)
+http://rogerdudler.github.io/git-guide/
+
+GitHub Hello World (Reference)
+https://guides.github.com/activities/hello-world/
+
+Atlassian - GIT Basics (Reference)
+https://www.atlassian.com/git/tutorial/git-basics
+
+GIT (Reference)
+http://git-scm.com/docs
+
+======================================================
+HTML & CSS
+======================================================
+Learn to Code HTML & CSS (Course)
+http://learn.shayhowe.com/html-css/
+  
+Learn to Code Advanced HTML & CSS (Course)
+http://learn.shayhowe.com/advanced-html-css/
+
+Intro to HTML/CSS: Making webpages (Course)
+https://www.khanacademy.org/computing/computer-programming/html-css
+
+HTML/JS: Making webpages interactive (Course)
+https://www.khanacademy.org/computing/computer-programming/html-css-js
+
+HTML/JS: Making webpages interactive with jQuery (Course)
+https://www.khanacademy.org/computing/computer-programming/html-js-jquery
+
+Introduction to Web Development (Course)
+https://www.theodinproject.com/courses/introduction-to-web-development
+
+Web Development 101 (Course)
+https://www.theodinproject.com/courses/web-development-101
+
+HTML5 and CSS3 (Course)
+https://www.theodinproject.com/courses/html5-and-css3
+
+CSS Basics in Depth (E-BOOK)
+http://www.cssbasics.com
+
+======================================================
+JAVASCRIPT
+======================================================
+Codecademy-JavaScript
+https://www.codecademy.com/learn/learn-javascript
+
+Basics of Programming with JavaScript (Video course)
+https://www.pluralsight.com/courses/javascript-programming-basics
+
+Advanced JavaScript (Video course)
+https://www.pluralsight.com/courses/advanced-javascript
+
+HTML/JS: Making webpages interactive (Course)
+https://www.khanacademy.org/computing/computer-programming/html-css-js
+
+HTML/JS: Making webpages interactive with jQuery (Course)
+https://www.khanacademy.org/computing/computer-programming/html-js-jquery
+
+Intro to JS: Drawing & Animation (Course)
+https://www.khanacademy.org/computing/computer-programming/programming
+
+
+Javascript and jQuery (Course)
+https://www.theodinproject.com/courses/javascript-and-jquery
+
+JavaScript30
+https://javascript30.com/
+
+You-Dont-Know-JS Book Series (Book-FREE)
+https://github.com/getify/You-Dont-Know-JS
+
+
+======================================================
+Coding Bootcamps Preps for HTML, CSS, JavaScript, and Ruby
+======================================================
+Viking Code School Prep Course (JavaScript/Ruby)
+https://www.vikingcodeschool.com/prep
+Complete Basic and Advanced Prep Work (Optional: Ruby programming)
+
+Hack Reactor Prep Course (JavaScript)
+http://www.hackreactor.com/prep-programs
+
+Fullstack Academy (JavaScript)
+https://www.fullstackacademy.com/bootcamp-prep
+
+Flatiron School (JavaScript/Ruby)
+https://flatironschool.com/programs/online-bootcamp-prep-course/
+
+General Assembly (JavaScript)
+https://dash.generalassemb.ly/
+
+Lambda School (JavaScript)
+https://lambdaschool.com/mini-bootcamp/
+
+Le Wagon (JavaScript)
+https://www.lewagon.com/learn-to-code
+
+Software Guild (JavaScript)
+https://www.thesoftwareguild.com/introduction-web-development/
+
+The Firehouse Project (Ruby)
+http://www.thefirehoseproject.com/get-started
