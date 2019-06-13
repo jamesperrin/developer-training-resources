@@ -1,6 +1,6 @@
 # Back-End Development
 
-Updated/Reviewed: 06/07/2019
+Updated/Reviewed: 06/13/2019
 
 Menu: [Home](./README.md)
 
@@ -48,6 +48,7 @@ Menu: [Home](./README.md)
 
 1. Tutorials
     1. [Programming with Python (Youtube.com)](https://www.youtube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U)
+    1. [Python Tutorial for Beginners 2019 [Full Course] (Youtube.com)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
     1. [Python Tutorials (Youtube.com)](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f)
 
 ### Node
