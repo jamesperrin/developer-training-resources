@@ -1,7 +1,5 @@
 # Git Training Resources
 
-Updated/Reviewed: 06/07/2019
-
 Menu: [Home](./README.md)
 
 ## Table of Contents

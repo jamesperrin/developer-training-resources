@@ -1,7 +1,6 @@
 # Free Coding Bootcamps
 
-Coding Bootcamps Preps for HTML, CSS, JavaScript, and Ruby   
-Updated/Reviewed: 06/07/2019
+Coding Bootcamps Preps for HTML, CSS, JavaScript, and Ruby
 
 Menu: [Home](./README.md)
 

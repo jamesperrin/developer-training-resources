@@ -1,7 +1,4 @@
-
 # Front-End Development
-
-Updated/Reviewed: 06/07/2019
 
 Menu: [Home](./README.md)
 

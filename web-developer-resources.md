@@ -1,7 +1,5 @@
 # Web Developer Resources
 
-Updated/Reviewed: 06/07/2019
-
 Menu: [Home](./README.md)
 
 ## ALL DOMAINS REQUIRED KNOWLEDGE
