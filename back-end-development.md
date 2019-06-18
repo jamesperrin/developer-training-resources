@@ -37,10 +37,12 @@ Menu: [Home](./README.md)
 1. Tutorials
     1. [Create a web app with ASP.NET Core MVC (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/Tutorials/first-mvc-app/?view=aspnetcore-2.2)
     1. [Overview of ASP.NET Core MVC (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-2.2)
-    1. [Tutorial: Get started with EF Core in an ASP.NET MVC web app (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-2.2)
+    1. [ASP.NET Core MVC with EF Core - tutorial series (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-2.2)
     1. [Getting Started with EF Core on ASP.NET Core with a New database (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db?toc=%2Faspnet%2Fcore%2Ftoc.json&bc=%2Faspnet%2Fcore%2Fbreadcrumb%2Ftoc.json&view=aspnetcore-2.2&tabs=visual-studio)
+    1. [Get started with EF Core on .NET Core with a new database using SQLite (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/ef/core/get-started/netcore/new-db-sqlite)
     1. [Persist and retrieve relational data with Entity Framework Core (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/learn/modules/persist-data-ef-core/?view=aspnetcore-2.2)
     1. [ASP.NET Core (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLsrZV8shpwjPwa-7olmhuH-VEFgBeh7rw)
+    1. [ASP.NET Core Razor Pages with EF Core - tutorial series (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/?view=aspnetcore-2.2)
 1. Reading Resources
     1. [ASP.NET Core fundamentals (docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.2&tabs=windows)
 
