@@ -12,6 +12,7 @@ Menu: [Home](./README.md)
 ### JavaScript
 
 1. [FreeCodeCamp.org - Learn to code for free (JavaScript)](https://www.freecodecamp.org/)
+1. [Deep Dive Into Modern Web Development (JavaScript)](https://fullstackopen.com/en/ "Learn React, Redux, Node.js, MongoDB, and GraphQL in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.")
 1. [Viking Code School - Bootcamp Prep Course (JavaScript)](https://www.vikingcodeschool.com/prep)
 1. [Hack Reactor Bootcamp Prep Course (JavaScript)](http://www.hackreactor.com/prep-programs)
 1. [Fullstack Academy - Bootcamp Prep Course (JavaScript)](https://www.fullstackacademy.com/bootcamp-prep)
