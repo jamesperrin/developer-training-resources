@@ -1,6 +1,6 @@
-# new-aspnet-developer
+# Developer Training Resources
 
-Repository containing different training resources for new ASP.Net MVC and ASP.Net Core MVC Developers.
+Repository containing different training resources for anyone wishing to learning development.
 
 ## Resources
 
