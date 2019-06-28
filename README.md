@@ -30,3 +30,4 @@ Repository containing different training resources for anyone wishing to learnin
 1. [Coding Bootcamps](./coding-bootcamps.md)
     1. [JavaScript](./coding-bootcamps.md#javascript)
     1. [Ruby](./coding-bootcamps.md#ruby)
+    1. [Python](./coding-bootcamps.md#python)

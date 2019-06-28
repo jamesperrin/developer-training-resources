@@ -1,6 +1,6 @@
 # Free Coding Bootcamps
 
-Coding Bootcamps Preps for HTML, CSS, JavaScript, and Ruby
+Coding Bootcamps Preps for HTML, CSS, JavaScript, Ruby, and Python.
 
 Menu: [Home](./README.md)
 
@@ -8,6 +8,7 @@ Menu: [Home](./README.md)
 
 - [JavaScript](#javascript)
 - [Ruby](#ruby)
+- [Python](#python)
 
 ### JavaScript
 
@@ -27,3 +28,8 @@ Menu: [Home](./README.md)
 1. [The Odin Project](https://www.theodinproject.com/)
 1. [Flatiron School - Bootcamp Prep Course (JavaScript/Ruby)](https://flatironschool.com/programs/online-bootcamp-prep-course/)
 1. [The Firehouse Project - Bootcamp Prep Course (Ruby)](http://www.thefirehoseproject.com/get-started)
+
+### Python
+
+1. [Metis Admissions Prep (thisismetis.com)](https://www.thisismetis.com/admissions-prep "Develop Your Data Science Fundamentals & Prepare to Apply to the Metis Bootcamp")
+1. [Codesmith.io](https://csx.codesmith.io/ "Learn Javascript for free and get admitted to a top coding school. Whether you are just starting out with JavaScript or have been building distributed Node microservices for years, CSX has courses, coding challenges, mentors and community for you.")
