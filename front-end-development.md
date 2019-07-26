@@ -10,6 +10,9 @@ Menu: [Home](./README.md)
 ### HTML AND CSS
 
 1. Tutorials
+    1. [Learn to Code HTML & CSS (shayhowe.com)](http://learn.shayhowe.com/html-css/)
+    1. [Learn to Code Advanced HTML & CSS (shayhowe.com)](http://learn.shayhowe.com/advanced-html-css/)
+    1. [Intro to HTML/CSS: Making webpages (khanacademy.org)](https://www.khanacademy.org/computing/computer-programming/html-css)
     1. [Introduction to HTML (codecademy.com)](https://www.codecademy.com/learn/learn-html)
     1. [Learn CSS (codecademy.com)](https://www.codecademy.com/learn/learn-css)
     1. [CSS Jump Start:70-480 (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLsrZV8shpwjPylAdgJCyk1TzdMEri1Idi)
@@ -17,26 +20,23 @@ Menu: [Home](./README.md)
     1. [Make a Website (codecademy.com)](https://www.codecademy.com/learn/make-a-website)
     1. [Learn Responsive Design (codecademy.com)](https://www.codecademy.com/learn/learn-responsive-design)
     1. [Deploy a Website (codecademy.com)](https://www.codecademy.com/learn/deploy-a-website)
-    1. [Learn Web Fundamentals (google.com)](https://developers.google.com/web/fundamentals/)
-    1. [Learn to Code HTML & CSS (shayhowe.com)](http://learn.shayhowe.com/html-css/)
-    1. [Learn to Code Advanced HTML & CSS (shayhowe.com)](http://learn.shayhowe.com/advanced-html-css/)
-    1. [Intro to HTML/CSS: Making webpages (khanacademy.org)](https://www.khanacademy.org/computing/computer-programming/html-css)
     1. [HTML5 and CSS3 (theodinproject.com)](https://www.theodinproject.com/courses/html5-and-css3)
 1. Reading Resources
     1. [Web Accessibility for Section 508 (e-book)](http://www.jimthatcher.com/webcourse1.htm)
     1. [Web Accessibility (e-book)](http://dhark.com/Slidy/web_accessibility.html)
     1. [CSS Basics in Depth (e-book)](http://www.cssbasics.com)
     1. [The Important CSS Selectors (article)](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+    1. [Learn Web Fundamentals (reference)](https://developers.google.com/web/fundamentals/)
 
 ### JavaScript
 
 1. Tutorials
+    1. [HTML/JS: Making webpages interactive (khanacademy.org)](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+    1. [HTML/JS: Making webpages interactive with jQuery (khanacademy.org)](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
     1. [Introduction To JavaScript (codecademy.com)](https://www.codecademy.com/learn/introduction-to-javascript)
     1. [Introduction to jQuery (codecademy.com)](https://www.codecademy.com/learn/learn-jquery)
     1. [JavaScript Basics (theodinproject.com)](https://www.theodinproject.com/courses/web-development-101#javascript-basics)
     1. [Programming in HTML5 with JavaScript and CSS3:70-480 (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLsrZV8shpwjN25T9ANfzYoH5siVbdSrFQ)
-    1. [HTML/JS: Making webpages interactive (khanacademy.org)](https://www.khanacademy.org/computing/computer-programming/html-css-js)
-    1. [HTML/JS: Making webpages interactive with jQuery (khanacademy.org)](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
     1. [JavaScript30 - 30 Day Vanilla JS Coding Challenge (javascript30.com)](https://javascript30.com/)
 1. Reading Resources
     1. [Eloquent JavaScript (e-book)](http://eloquentjavascript.net/)

@@ -20,13 +20,13 @@ Menu: [Home](./README.md)
     1. [SQL Fundamentals (dataquest.io)](https://www.dataquest.io/course/sql-fundamentals/ "SQL is the language of data, and it is a critical skill to have when working as a Data Analyst, Data Scientist, or as a Data Engineer. In fact, more data analysts and data scientists use SQL than use either Python or R (because both Python and R programmers use SQL, too).  In our SQL Fundamentals course, you will learn the basics of this critical skill and start building some experience working with SQL databases.")
     1. [SQL and Databases: Advanced (dataquest.io)](https://www.dataquest.io/course/sql-databases-advanced/ "At the start of this course, you will learn the basics of PostgreSQL, a popular and powerful open-source relational database designed to handle multiple connections at once. You will also learn how to work with PostgreSQL in conjunction with Python using the psycopg2 library, and how to work with PostgreSQL from the command line using psql.")
 1. Reading Resources
-    1. [Intro to Relational Databases (databases.about.com)](http://databases.about.com/od/databasetraining/a/databasesbegin.htm)
-    1. [Intro to SQL (w3schools.com)](http://www.w3schools.com/sql/sql_intro.asp)
-    1. [Intro to T-SQL (benkotips.com)](http://www.benkotips.com/pages/introtsql.aspx)
-    1. [T-SQL Quick Reference (devguru.com)](http://www.devguru.com/technologies/t-sql/index)
-    1. [Integration Services (MSDN)](https://msdn.microsoft.com/en-us/library/jj720568.aspx)
-    1. [Analytics in Action (analyticsinaction.com)](http://www.analyticsinaction.com/)
-    1. [Introduction to Dimensions (Analysis Services - Multidimensional Data) (MSDN)](https://msdn.microsoft.com/en-us/library/ms175439.aspx)
+    1. [Intro to Relational Databases (article)](http://databases.about.com/od/databasetraining/a/databasesbegin.htm)
+    1. [Intro to SQL (article)](http://www.w3schools.com/sql/sql_intro.asp)
+    1. [Intro to T-SQL (article)](http://www.benkotips.com/pages/introtsql.aspx)
+    1. [T-SQL Quick Reference (article)](http://www.devguru.com/technologies/t-sql/index)
+    1. [Integration Services (article)](https://msdn.microsoft.com/en-us/library/jj720568.aspx)
+    1. [Analytics in Action (article)](http://www.analyticsinaction.com/)
+    1. [Introduction to Dimensions (Analysis Services - Multidimensional Data) (article)](https://msdn.microsoft.com/en-us/library/ms175439.aspx)
 
 ### MongoDB
 
