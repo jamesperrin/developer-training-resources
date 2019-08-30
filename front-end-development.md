@@ -23,6 +23,7 @@ Menu: [Home](./README.md)
     1. [Intro to HTML/CSS: Making webpages (khanacademy.org)](https://www.khanacademy.org/computing/computer-programming/html-css)
     1. [HTML5 and CSS3 (theodinproject.com)](https://www.theodinproject.com/courses/html5-and-css3)
 1. Reading Resources
+    1. [Emmet Cheatsheet (e-book)](./assets/Emmet-Cheatsheet.pdf)
     1. [Web Accessibility for Section 508 (e-book)](http://www.jimthatcher.com/webcourse1.htm)
     1. [Web Accessibility (e-book)](http://dhark.com/Slidy/web_accessibility.html)
     1. [CSS Basics in Depth (e-book)](http://www.cssbasics.com)
