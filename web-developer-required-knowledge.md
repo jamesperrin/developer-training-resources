@@ -18,7 +18,7 @@ Menu: [Home](./README.md)
 1. Project Management
 1. Systems Development Life Cycle (SDLC)
 
-## Front-End Development Required Knowledge
+## [Front-End Development](./front-end-development.md "Training resources for Front-End Development") Required Knowledge
 
 1. HTML5
 1. CSS3
@@ -32,16 +32,17 @@ Menu: [Home](./README.md)
 1. Modernizr.js
 1. Moment.js
 1. Toastr.js
-1. Bootstrap Front-end Framework
+1. Front-end Framework ( [U.S. Web Design System](https://designsystem.digital.gov/ "A design system for the federal government.
+We make it easier to build accessible, mobile-friendly government websites for the American public."), [Bootstrap](https://getbootstrap.com/ "Build responsive, mobile-first projects on the web with the world’s most popular front-end component library."), [Foundation](https://foundation.zurb.com/ "The most advanced responsive front-end framework in the world."))
 
-## Database Development Required Knowledge
+## [Database Development](./database-development.md "Training resources for Database Development") Required Knowledge
 
 1. T-SQL
 1. SQL Server
 1. Database administration
 1. Database optimization
 
-## `ASP.NET` MVC Back-End Development Required Knowledge
+## [ASP.NET MVC Back-End Development](./back-end-development.md#aspnet-mvc "Training resources for ASP.NET MVC Back-End Development") Required Knowledge
 
 1. Visual Studio
 1. NuGet Package Management

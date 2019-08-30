@@ -19,7 +19,7 @@ Menu: [Home](./README.md)
     1. [C# Fundamentals for Absolute Beginners (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjMkG96rkKLdNiX02S5LPIqS)
     1. [Introduction to JSON with C# (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjM_eZZ-11lEby-bWmPrNem9)
     1. [C#.NET Tutorials (YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
-    1. [c# tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PLAC325451207E3105)
+    1. [C# tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PLAC325451207E3105)
 
 ### `ASP.Net` MVC
 
@@ -46,7 +46,7 @@ Menu: [Home](./README.md)
     1. [Design Patterns tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
     1. [ASP.NET Core Razor Pages with EF Core - tutorial series (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/?view=aspnetcore-2.2)
 1. Reading Resources
-    1. [ASP.NET Core fundamentals (docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.2&tabs=windows)
+    1. [ASP.NET Core fundamentals (reference)](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-2.2&tabs=windows)
 
 ### Web API
 
@@ -82,7 +82,7 @@ Menu: [Home](./README.md)
     1. [APIs and Web Scraping (dataquest.io)](https://www.dataquest.io/course/apis-and-scraping/ "A data analyst or data scientist doesn’t always get data handed to them in a CSV or via an easily accessible database. Sometimes, you’ve got to go out and get the data you need. The ability to collect unique data sets can really set you apart from the pack, and being able to access APIs and scrape the web for new data stories is the best way to get data nobody else is working with.")
     1. [Pandas and NumPy Fundamentals (dataquest.io)](https://www.dataquest.io/course/pandas-fundamentals/ "In our Pandas and NumPy fundamentals course, you will learn how to work with Pandas and NumPy, the two most popular Python open-source libraries for data analysis.")
 1. Reading Resources
-    1. [Automate the Boring Stuff with Python (automatetheboringstuff.com)](http://automatetheboringstuff.com/ "Practical programming for total beginners.")
+    1. [Automate the Boring Stuff with Python (e-book)](http://automatetheboringstuff.com/ "Practical programming for total beginners.")
 
 ### Node
 

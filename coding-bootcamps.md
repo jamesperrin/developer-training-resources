@@ -1,6 +1,6 @@
 # Free Coding Bootcamps
 
-Coding Bootcamps Preps for HTML, CSS, JavaScript, Ruby, and Python.
+Coding Bootcamps Preps for HTML, CSS, JavaScript, and Ruby
 
 Menu: [Home](./README.md)
 
@@ -12,24 +12,25 @@ Menu: [Home](./README.md)
 
 ### JavaScript
 
-1. [FreeCodeCamp.org - Learn to code for free (JavaScript)](https://www.freecodecamp.org/)
-1. [Deep Dive Into Modern Web Development (JavaScript)](https://fullstackopen.com/en/ "Learn React, Redux, Node.js, MongoDB, and GraphQL in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.")
-1. [Viking Code School - Bootcamp Prep Course (JavaScript)](https://www.vikingcodeschool.com/prep)
-1. [Hack Reactor Bootcamp Prep Course (JavaScript)](http://www.hackreactor.com/prep-programs)
-1. [Fullstack Academy - Bootcamp Prep Course (JavaScript)](https://www.fullstackacademy.com/bootcamp-prep)
-1. [General Assembly - Bootcamp Prep Course   (JavaScript)](https://dash.generalassemb.ly/)
-1. [Lambda School - Bootcamp Prep Course   (JavaScript)](https://lambdaschool.com/mini-bootcamp/)
-1. [Le Wagon - Bootcamp Prep Course   (JavaScript)](https://www.lewagon.com/learn-to-code)
-1. [Software Guild - Bootcamp Prep Course   (JavaScript)](https://www.thesoftwareguild.com/introduction-web-development/)
+1. [FreeCodeCamp.org - Learn to code for free (freecodecamp.org)](https://www.freecodecamp.org/)
+1. [The Odin Project - Node.js Track (theodinproject.com)](https://www.theodinproject.com/tracks/2)
 1. [Web Development 101 (theodinproject.com)](https://www.theodinproject.com/courses/web-development-101)
+1. [Deep Dive Into Modern Web Development (fullstackopen.com)](https://fullstackopen.com/en/ "Learn React, Redux, Node.js, MongoDB, and GraphQL in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.")
+1. [Viking Code School - Bootcamp Prep Course (vikingcodeschool.com)](https://www.vikingcodeschool.com/prep)
+1. [Hack Reactor Bootcamp Prep Course (hackreactor.com)](http://www.hackreactor.com/prep-programs)
+1. [Fullstack Academy - Bootcamp Prep Course (fullstackacademy.com)](https://www.fullstackacademy.com/bootcamp-prep)
+1. [General Assembly - Bootcamp Prep Course (generalassemb.ly)](https://dash.generalassemb.ly/)
+1. [Lambda School - Bootcamp Prep Course (lambdaschool.com)](https://lambdaschool.com/mini-bootcamp/)
+1. [Le Wagon - Bootcamp Prep Course (lewagon.com)](https://www.lewagon.com/learn-to-code)
+1. [Software Guild - Bootcamp Prep Course (thesoftwareguild.com)](https://www.thesoftwareguild.com/introduction-web-development/)
+1. [Codesmith.io CSX (codesmith.io)](https://csx.codesmith.io/ "Learn Javascript for free and get admitted to a top coding school. Whether you are just starting out with JavaScript or have been building distributed Node microservices for years, CSX has courses, coding challenges, mentors and community for you.")
 
 ### Ruby
 
-1. [The Odin Project](https://www.theodinproject.com/)
-1. [Flatiron School - Bootcamp Prep Course (JavaScript/Ruby)](https://flatironschool.com/programs/online-bootcamp-prep-course/)
-1. [The Firehouse Project - Bootcamp Prep Course (Ruby)](http://www.thefirehoseproject.com/get-started)
+1. [The Odin Project - Ruby Track (theodinproject.com)](https://www.theodinproject.com/tracks/1)
+1. [Flatiron School - Bootcamp Prep Course (flatironschool.com)](https://flatironschool.com/programs/online-bootcamp-prep-course/)
+1. [The Firehouse Project - Bootcamp Prep Course (thefirehoseproject.com)](http://www.thefirehoseproject.com/get-started)
 
 ### Python
 
 1. [Metis Admissions Prep (thisismetis.com)](https://www.thisismetis.com/admissions-prep "Develop Your Data Science Fundamentals & Prepare to Apply to the Metis Bootcamp")
-1. [Codesmith.io](https://csx.codesmith.io/ "Learn Javascript for free and get admitted to a top coding school. Whether you are just starting out with JavaScript or have been building distributed Node microservices for years, CSX has courses, coding challenges, mentors and community for you.")
