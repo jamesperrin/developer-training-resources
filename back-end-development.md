@@ -83,6 +83,7 @@ Menu: [Home](./README.md)
     1. [Pandas and NumPy Fundamentals (dataquest.io)](https://www.dataquest.io/course/pandas-fundamentals/ "In our Pandas and NumPy fundamentals course, you will learn how to work with Pandas and NumPy, the two most popular Python open-source libraries for data analysis.")
 1. Reading Resources
     1. [Automate the Boring Stuff with Python (e-book)](http://automatetheboringstuff.com/ "Practical programming for total beginners.")
+    1. [Cannot install or upgrade pip "ssl error" (article)](https://github.com/pypa/pip/issues/5448 'Cannot install or upgrade pip "ssl error"')
 
 ### Node
 
