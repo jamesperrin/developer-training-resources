@@ -5,6 +5,7 @@ Menu: [Home](./README.md)
 ## Table of Contents
 
 - [C-Sharp](#c-sharp)
+- [Classic ASP](#classic-asp)
 - [ASP.Net MVC](#aspnet-mvc)
 - [ASP.Net Core MVC](#aspnet-core-mvc)
 - [Web API](#web-api)
@@ -20,6 +21,11 @@ Menu: [Home](./README.md)
     1. [Introduction to JSON with C# (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjM_eZZ-11lEby-bWmPrNem9)
     1. [C#.NET Tutorials (YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
     1. [C# tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PLAC325451207E3105)
+
+### Classic ASP
+
+1. Reading Resources
+    1. [TLS 1.2 with Classic ASP (article)](https://dhali.com/programming/tls-1-2-with-classic-asp/ "TLS 1.2 with Classic ASP")
 
 ### `ASP.Net` MVC
 
