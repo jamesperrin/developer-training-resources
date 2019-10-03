@@ -18,6 +18,7 @@ Menu: [Home](./README.md)
 
 1. Tutorials
     1. [C# Fundamentals for Absolute Beginners (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjMkG96rkKLdNiX02S5LPIqS)
+    1. [C# 101 video series (channel9.msdn.com)](https://channel9.msdn.com/Series/CSharp-101/ "In this first video of a full Intro to C# video series, Scott Hanselman and Kendra Havens review the basics of C# from building a simple Hello World application to knowing about Object Oriented Programming with Microsoft experts!")
     1. [Introduction to JSON with C# (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjM_eZZ-11lEby-bWmPrNem9)
     1. [C#.NET Tutorials (YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
     1. [C# tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PLAC325451207E3105)
