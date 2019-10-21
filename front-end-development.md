@@ -4,8 +4,22 @@ Menu: [Home](./README.md)
 
 ## Table of Contents
 
+- [Web Accessibility](#web-accessibility)
 - [HTML AND CSS](#html-and-css)
 - [JavaScript](#javascript)
+
+### Web Accessibility
+
+1. Tutorials
+    1. [Web Accessibility - Developing with Empathy (udacity.com)](https://www.udacity.com/course/web-accessibility--ud891 'In this course you’ll get hands-on experience making web applications accessible. You’ll understand when and why users need accessibility. Then you’ll dive into the "how": making a page work properly with screen readers, and managing input focus (e.g. the highlight you see when tabbing through a form.) You’ll understand what "semantics" and "semantic markup" mean for web pages and add ARIA markup to enable navigating the interface with a range of assistive devices. Finally, you’ll learn styling techniques that help users with partial vision navigate your pages easily and reliably.')
+    1. [Section 508 Awareness (section508.gov)](https://www.section508.gov/508-training/courses/new "What is a Section 508 Program? This course provides an overview of federal agency 508 programs, and how they help agencies deliver accessible technology products and services to employees and the public.")
+    1. [Section 508: What It Is and Why It's Important? (section508.gov)](https://www.section508.gov/508-training/courses/508-basics "Introduction to Section 508 and Information and Communication Technology (ICT). Explains what Section 508 is and why it’s important, shows how conformance can make ICT more accessible, reviews job-related responsibilities for meeting Section 508 standards, offers resources to help you meet your Section 508 responsibilities.")
+    1. [Training in 508 Compliance and Accessible Design ()](https://www.hhs.gov/web/section-508/training-in-508/index.html )
+    1. [Technology Accessibility Playbook: How to Build an Effective Section 508 Program (section508.gov)](https://www.section508.gov/508-training/courses/playbook/ "Describes the 12 plays to integrate strategic, business and technology management into a successful Section 508 program, to ensure Federal ICT is accessible to persons with disabilities.")
+1. Reading Resources
+    1. [Web Accessibility for Section 508 (e-book)](http://www.jimthatcher.com/webcourse1.htm)
+    1. [Web Accessibility (e-book)](http://dhark.com/Slidy/web_accessibility.html)
+    1. [Intro to Accessibility - PDF (presentation)](https://www.hhs.gov/sites/default/files/Intro%20to%20Accessibility%20and%20508.pdf)
 
 ### HTML AND CSS
 
@@ -25,11 +39,8 @@ Menu: [Home](./README.md)
     1. [Building High Conversion Web Forms (udacity.com)](https://www.udacity.com/course/building-high-conversion-web-forms--ud890 "In this course, you'll learn best practices for modern forms as taught by Google's Ido Green and Udacity's Cameron Pittman. You'll practice your skills along the way with a few self-directed projects, including an e-commerce checkout and an event planner app!")
     1. [Responsive Images (udacity.com)](https://www.udacity.com/course/responsive-images--ud882 "In this course you will learn how to work with images on the modern web, so that your images look great and load quickly on any device.")
     1. [HTML5 Canvas - From Pixels to Animation! (udacity.com)](https://www.udacity.com/course/html5-canvas--ud292 "In this course, through several sample projects, you’ll learn how to use the canvas; how to make compositions using shapes, images, and text; how to create effects and filters on images and how to create animations.")
-    1. [Web Accessibility - Developing with Empathy (udacity.com)](https://www.udacity.com/course/web-accessibility--ud891 'In this course you’ll get hands-on experience making web applications accessible. You’ll understand when and why users need accessibility. Then you’ll dive into the "how": making a page work properly with screen readers, and managing input focus (e.g. the highlight you see when tabbing through a form.) You’ll understand what "semantics" and "semantic markup" mean for web pages and add ARIA markup to enable navigating the interface with a range of assistive devices. Finally, you’ll learn styling techniques that help users with partial vision navigate your pages easily and reliably.')
 1. Reading Resources
     1. [Emmet Cheatsheet (e-book)](./assets/Emmet-Cheatsheet.pdf)
-    1. [Web Accessibility for Section 508 (e-book)](http://www.jimthatcher.com/webcourse1.htm)
-    1. [Web Accessibility (e-book)](http://dhark.com/Slidy/web_accessibility.html)
     1. [CSS Basics in Depth (e-book)](http://www.cssbasics.com)
     1. [The Important CSS Selectors (article)](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
     1. [Learn Web Fundamentals (reference)](https://developers.google.com/web/fundamentals/)

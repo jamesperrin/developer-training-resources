@@ -13,6 +13,7 @@ Repository containing different training resources for anyone wishing to learnin
     1. [Linux Command Line](./git-training-resources.md#linux-command-line)
     1. [Git Version Control](./git-training-resources.md#git-version-control)
 1. [Front-End Development](./front-end-development.md)
+    1. [Web Accessibility](./front-end-development.md##web-accessibility)
     1. [HTML AND CSS](./front-end-development.md#html-and-css)
     1. [JavaScript](./front-end-development.md#javascript)
 1. [Back-End Development](./back-end-development.md)
