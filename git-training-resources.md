@@ -20,7 +20,7 @@ Menu: [Home](./README.md)
 ### Git Version Control
 
 1. Tutorials
-    1. [Learn Git (codecademy.com)](https://www.codecademy.com/learn/learn-git)
+    1. [Learn Git & GitHub (freecodecamp youtube.com)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)
     1. [Webcast • The Basics of Git and GitHub • July 2013 (youtube.com)](http://youtu.be/U8GBXvdmHT4)
     1. [Get Up and Running (youtube.com)](http://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
     1. [GitHub Overview Training (youtube.com)](http://www.youtube.com/playlist?list=PLg7s6cbtAD15Das5LK9mXt_g59DLWxKUe)
@@ -30,6 +30,7 @@ Menu: [Home](./README.md)
     1. [GitHub & Collaboration (udacity.com)](https://www.udacity.com/course/github-collaboration--ud456)
     1. [Optimize Your GitHub (udacity.com)](https://www.udacity.com/course/optimize-your-github--ud247)
 1. Reading Resources
+    1. [The Best Git Tutorials (article)](https://www.freecodecamp.org/news/best-git-tutorial/ "FreeCodeCamp.org Git Tutoral and resouces for best Git Tutorials")
     1. [Git Notes for Professionals (e-book)](./assets/GitNotesForProfessionals.pdf)
     1. [Git Cheat Sheet PDF (e-book)](https://www.git-tower.com/blog/git-cheat-sheet)
     1. [GitHub Git Cheat Sheet PDF (e-book)](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
