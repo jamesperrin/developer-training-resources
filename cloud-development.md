@@ -1,4 +1,4 @@
-# Free Cloud Development Training Resoures
+# Free Cloud Development Training Resources
 
 Menu: [Home](./README.md)
 
