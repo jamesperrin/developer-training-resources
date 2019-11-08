@@ -42,6 +42,8 @@ Menu: [Home](./README.md)
 ### `ASP.Net` Core MVC
 
 1. Tutorials
+    1. [Quick Introduction to ASP.NET Core 2.2 (udemy.com)](https://www.udemy.com/course/asp-net-core/ "Free 4 Hours - This is an introductory course on ASP.NET Core 2.2. This course is for anyone who is new to asp.net core 2.2 or who is familiar with ASP.NET  and wants to take a first stab at understanding what is different in asp.net core 2.2.")
+    1. [Building a Web App with ASP.NET Core, MVC, Entity Framework (udemy.com)](https://www.udemy.com/course/building-a-web-app-with-aspnet-core-mvc-entity-framework/ "Free 3 Hours - In this course, you'll build your first fully-working MVC web application using the new ASP.NET Core MVC. ASP.NET Core is a mature, stable platform for developing web applications and APIs. This course will walk you through building a web app from scratch using ASP.NET Core 2.1, Visual Studio 2017, Entity Framework Core 2.1, Bootstrap 4, and Angular (v6)")
     1. [Create a web app with ASP.NET Core MVC (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/Tutorials/first-mvc-app/?view=aspnetcore-2.2)
     1. [Overview of ASP.NET Core MVC (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-2.2)
     1. [ASP.NET Core MVC with EF Core - tutorial series (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-2.2)
@@ -64,6 +66,7 @@ Menu: [Home](./README.md)
 ### Python
 
 1. Tutorials
+    1. [Python Core and Advanced (udemy.com)](https://www.udemy.com/course/python-core-and-advanced/ "Free 8.5 - Whether you are a College student learning the fundamentals of Python or a Data Science expert using python to analyze your data or a Web Developer using python frameworks like DJango or a Experienced python developer who wants to fill in the gaps , this course will help you accomplish your goals.")
     1. [Programming with Python (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjMbK0ElithYzT4dGuunT40U)
     1. [Python Tutorial for Beginners 2019 [Full Course] (Mosh-YouTube.com)](https://www.YouTube.com/watch?v=_uQrJ0TkZlc)
     1. [Python Tutorials (Mosh-YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f)
