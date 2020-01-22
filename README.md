@@ -48,3 +48,4 @@ Repository containing different training resources for anyone wishing to learnin
     1. [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/playlists)
     1. [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/playlists)
     1. [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw/playlists)
+1. [developer-training-resources Wiki](https://github.com/jamesperrin/developer-training-resources/wiki)
