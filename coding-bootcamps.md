@@ -13,6 +13,7 @@ Menu: [Home](./README.md)
 ### JavaScript
 
 1. [FreeCodeCamp.org - Learn to code for free (freecodecamp.org)](https://www.freecodecamp.org/)
+1. [App Academy Open - free online Fullstack Bootcamp (appacademy.io)](https://open.appacademy.io/ "Land one of the highest paying jobs - for free Learn to code online. Get access to App Academy’s entire full-stack course for free" )
 1. [The Odin Project - Node.js Track (theodinproject.com)](https://www.theodinproject.com/tracks/2)
 1. [Web Development 101 (theodinproject.com)](https://www.theodinproject.com/courses/web-development-101)
 1. [Deep Dive Into Modern Web Development (fullstackopen.com)](https://fullstackopen.com/en/ "Learn React, Redux, Node.js, MongoDB, and GraphQL in one go! This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.")
@@ -24,9 +25,9 @@ Menu: [Home](./README.md)
 
 ### Ruby
 
-1. [The Odin Project - Ruby Track (theodinproject.com)](https://www.theodinproject.com/tracks/1)
+1. [App Academy Open - free online Fullstack Bootcamp (appacademy.io)](https://open.appacademy.io/ "Land one of the highest paying jobs - for free Learn to code online. Get access to App Academy’s entire full-stack course for free" )
 1. [Flatiron School - Bootcamp Prep Course (flatironschool.com)](https://flatironschool.com/programs/online-bootcamp-prep-course/)
-1. [The Firehouse Project - Bootcamp Prep Course (thefirehoseproject.com)](http://www.thefirehoseproject.com/get-started)
+1. [The Odin Project - Ruby Track (theodinproject.com)](https://www.theodinproject.com/tracks/1)
 
 ### Python
 
