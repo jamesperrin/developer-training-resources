@@ -33,11 +33,12 @@ Menu: [Home](./README.md)
 
 1. Tutorials
     1. [ASP.NET MVC 4 Web Applications Jump Start (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLIoX3-mcY80gktuMgl7UqkXD3Zl6oFOCM)
-    1. [Introduction to ASP.NET MVC (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjNLs9hr2YEllESVP4jCN6pR)
+    1. [Introduction to ASP.NET MVC (RG Edu-YouTube.com)](https://www.youtube.com/playlist?list=PLIoX3-mcY80gLduhSJcrH0wAefC6gyS_C)
     1. [Building Applications with ASP.NET MVC 4 (Pluralsight.com)](https://www.pluralsight.com/courses/mvc4-building)
-    1. [ASP.NET MVC 5 Fundamentals (Pluralsight)](https://www.pluralsight.com/courses/mvc4-building)
+    1. [ASP.NET MVC 5 Fundamentals (Pluralsight)](https://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals)
     1. [Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh (YouTube.com)](https://www.YouTube.com/watch?v=E7Voso411Vs&list=PLTjRvDozrdlwG-Gl0I1vCA7NUBS0mif8F&index=2&t=0s)
-    1. [Entity Framework Tutorials (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlyZf7wM83SZT-xz9giQlcwJ)
+    1. [Entity Framework 6 (Code Semantic-youtube.com)](https://www.youtube.com/playlist?list=PLUU6Q8aGTpKV4bfIPiqGANF2OpbFbE0vl)
+    1. [Entity Framework Tutorials (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx)
     1. [Implementing Entity Framework with MVC (Microsoft-YouTube.com)](https://www.YouTube.com/watch?v=ok3kajIFHow)
 
 ### `ASP.Net` Core MVC

@@ -10,7 +10,6 @@ Menu: [Home](./README.md)
 ### SQL Server
 
 1. Tutorials
-    1. [Database Fundamentals (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLsrZV8shpwjM71pXuhXu9dSM2QL5kZIoh)
     1. [Querying Microsoft SQL Server 2012 Databases Jump Start (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLIoX3-mcY80ipygQHDYN_w_F1lAl2m2JS)
     1. [Querying with Transact-SQL (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLar0ZIPrNX9ftDSmaD2tO32wjjSEAYU-P)
     1. [SQL Server tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)

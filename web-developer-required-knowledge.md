@@ -16,7 +16,7 @@ Menu: [Home](./README.md)
 1. HTTP Protocols
 1. Git version control
 1. Project Management
-1. Systems Development Life Cycle (SDLC)
+1. [Software Development Life Cycle (SDLC)](https://en.wikipedia.org/wiki/Software_development_process)
 
 ## [Front-End Development](./front-end-development.md "Training resources for Front-End Development") Required Knowledge
 
