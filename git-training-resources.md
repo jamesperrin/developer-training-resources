@@ -29,7 +29,7 @@ Menu: [Home](./README.md)
     1. [Version Control with Git (udacity.com)](https://www.udacity.com/course/version-control-with-git--ud123)
 1. Reading Resources
     1. [The Best Git Tutorials (article)](https://www.freecodecamp.org/news/best-git-tutorial/ "FreeCodeCamp.org Git Tutoral and resouces for best Git Tutorials")
-    1. [Git Notes for Professionals (e-book)](./assets/GitNotesForProfessionals.pdf)
+    1. [Git Notes for Professionals (e-book)](https://goalkicker.com/GitBook/)
     1. [Git Cheat Sheet PDF (e-book)](https://www.git-tower.com/blog/git-cheat-sheet)
     1. [GitHub Git Cheat Sheet PDF (e-book)](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
     1. [Git - the simple guide (article)](http://rogerdudler.github.io/git-guide/)

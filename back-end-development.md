@@ -17,12 +17,12 @@ Menu: [Home](./README.md)
 ### C-Sharp
 
 1. Tutorials
-    1. [C# 101 (Microsoft-YouTube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN "C# 101 - In this first video of a full Intro to C# video series, Scott Hanselman and Kendra Havens review the basics of C# from building a simple Hello World application to knowing about Object Oriented Programming with Microsoft experts!")
+    1. [C# 101 (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN "C# 101 - In this first video of a full Intro to C# video series, Scott Hanselman and Kendra Havens review the basics of C# from building a simple Hello World application to knowing about Object Oriented Programming with Microsoft experts!")
     1. [C# 101 video series (channel9.msdn.com)](https://channel9.msdn.com/Series/CSharp-101/ "In this first video of a full Intro to C# video series, Scott Hanselman and Kendra Havens review the basics of C# from building a simple Hello World application to knowing about Object Oriented Programming with Microsoft experts!")
-    1. [C# Advanced (Microsoft-YouTube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXzJ3FC-ApBes-0klFN9kr9 "C# Advanced - LINQ SERIES: Language Integrated Query, LINQ, provides a consistent syntax to query any data source. More than that, the compiler and libraries translate that consistent syntax to native queries for each different data source. You learn LINQ, and you can efficiently access data from databases, cloud storage, objects in memory, JSON or XML data sources. In this series, you’ll learn how to write LINQ queries. You’ll also learn about the mechanisms LINQ uses to translate your C# code into native queries for specific data sources. ASYNC SERIES: Modern applications require asynchronous processing. You may make network calls to services in the cloud or on other machines. You may be starting long-running processes to analyze large data sets. The C# language has features that make async programs easier to reason about and understand. In this series, you’ll learn about “async” and “await”, and the Task class. You’ll learn how these features work together to help you to write asynchronous applications.")
-    1. [Introduction to JSON with C# (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjM_eZZ-11lEby-bWmPrNem9)
-    1. [C#.NET Tutorials (YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
-    1. [C# tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PLAC325451207E3105)
+    1. [C# Advanced (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oXzJ3FC-ApBes-0klFN9kr9 "C# Advanced - LINQ SERIES: Language Integrated Query, LINQ, provides a consistent syntax to query any data source. More than that, the compiler and libraries translate that consistent syntax to native queries for each different data source. You learn LINQ, and you can efficiently access data from databases, cloud storage, objects in memory, JSON or XML data sources. In this series, you’ll learn how to write LINQ queries. You’ll also learn about the mechanisms LINQ uses to translate your C# code into native queries for specific data sources. ASYNC SERIES: Modern applications require asynchronous processing. You may make network calls to services in the cloud or on other machines. You may be starting long-running processes to analyze large data sets. The C# language has features that make async programs easier to reason about and understand. In this series, you’ll learn about “async” and “await”, and the Task class. You’ll learn how these features work together to help you to write asynchronous applications.")
+    1. [Introduction to JSON with C# (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLsrZV8shpwjM_eZZ-11lEby-bWmPrNem9)
+    1. [C#.NET Tutorials (youtube.com)](https://www.youtube.com/playlist?list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+    1. [C# tutorial for beginners (kudvenkat-youtube.com)](https://www.youtube.com/playlist?list=PLAC325451207E3105)
 
 ### Classic ASP
 
@@ -32,25 +32,24 @@ Menu: [Home](./README.md)
 ### `ASP.Net` MVC
 
 1. Tutorials
-    1. [ASP.NET MVC 4 Web Applications Jump Start (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLIoX3-mcY80gktuMgl7UqkXD3Zl6oFOCM)
-    1. [Introduction to ASP.NET MVC (RG Edu-YouTube.com)](https://www.youtube.com/playlist?list=PLIoX3-mcY80gLduhSJcrH0wAefC6gyS_C)
+    1. [ASP.NET MVC 4 Web Applications Jump Start (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLIoX3-mcY80gktuMgl7UqkXD3Zl6oFOCM)
+    1. [Introduction to ASP.NET MVC (RG Edu-youtube.com)](https://www.youtube.com/playlist?list=PLIoX3-mcY80gLduhSJcrH0wAefC6gyS_C)
     1. [Building Applications with ASP.NET MVC 4 (Pluralsight.com)](https://www.pluralsight.com/courses/mvc4-building)
     1. [ASP.NET MVC 5 Fundamentals (Pluralsight)](https://www.pluralsight.com/courses/aspdotnet-mvc5-fundamentals)
-    1. [Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh (YouTube.com)](https://www.YouTube.com/watch?v=E7Voso411Vs&list=PLTjRvDozrdlwG-Gl0I1vCA7NUBS0mif8F&index=2&t=0s)
+    1. [Step-by-step ASP.NET MVC Tutorial for Beginners | Mosh (youtube.com)](https://www.youtube.com/watch?v=E7Voso411Vs&list=PLTjRvDozrdlwG-Gl0I1vCA7NUBS0mif8F&index=2&t=0s)
     1. [Entity Framework 6 (Code Semantic-youtube.com)](https://www.youtube.com/playlist?list=PLUU6Q8aGTpKV4bfIPiqGANF2OpbFbE0vl)
-    1. [Entity Framework Tutorials (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx)
-    1. [Implementing Entity Framework with MVC (Microsoft-YouTube.com)](https://www.YouTube.com/watch?v=ok3kajIFHow)
+    1. [Entity Framework Tutorials (kudvenkat-youtube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx)
+    1. [Implementing Entity Framework with MVC (Microsoft-youtube.com)](https://www.youtube.com/watch?v=ok3kajIFHow)
 
 ### `ASP.Net` Core MVC
 
 1. Tutorials
-    1. [Quick Introduction to ASP.NET Core 3.1 (udemy.com)](https://www.udemy.com/course/asp-net-core/ "Free 4 Hours - This is an introductory course on ASP.NET Core 3.1. This course is for anyone who is new to asp.net core 3.1 or who is familiar with ASP.NET  and wants to take a first stab at understanding what is different in asp.net core 3.1.")
     1. [ASP.NET Core MVC, Quick and Practical (udemy.com)](https://www.udemy.com/course/aspnet-core-mvc-quick-and-practical/ "Free 2.5 Hours - ASP.NET Core MVC is a lightweight, fast and cross-platform framework for building web and cloud applications, built on top of .NET Core framework. This course is a quick and practical way to learn ASP.NET Core MVC and it aimed to help you start developing your real-world applications in this framework. By the end of the course you will know how modern web applications are designed and, you have a practical source code with a custom user-management system and authentication to kick start your project. This course has a progressive approach. It is started by explaining MVC (Model-View-Controller) design pattern and showing how it is implemented in .NET Core and then step by step we will move forward and complete our application while I explain the concepts in a simple language")
     1. [Complete ASP.Net Core 3.1 and Entity Framework Development (udemy.com)](https://www.udemy.com/course/complete-aspnet-core-31-and-entity-framework-development/ "Free 14.5 Hours - Learn how to build an Employee Leave Management System using .Net Core, Entity Framework, Code-First and the Repository Pattern. This course will show you how to use Visual Studio, Microsoft SQL Server Express and explore dynamic web development with Bootstrap and JQuery and various front-end libraries. ASP.NET Core is Microsoft's modern, cross-platform framework for building enterprise ready web applications. In this course,  you will learn everything you need to know about building ASP.NET Core applications, from understanding the folder structure and files, to building a complete web application.")
-    1. [Entity Framework Core 101 (Microsoft-YouTube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6 "Entity Framework Core 101 - Entity Framework Core is an Object-Relational Mapper that simplifies working with relational databases using strongly-typed .NET objects. This 101-level, intro video series will walk you getting started with EF, building an ASP.NET Core Web Apps with EF Core, and performance tips to help you along the way!")
-    1. [ASP.NET core tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
-    1. [Design Patterns tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
-    1. [ASP.NET Core 101 (Microsoft-YouTube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy "ASP.NET Core 101 - ASP.NET is an open source web framework, created by Microsoft, for building modern web apps and services with .NET. In this introductory video series, Scott Hanselman and Leslie Richardson explain how to utilize the right tools for building your ASP.NET Core website. Including Blazor components and publishing your website to Azure!")
+    1. [Entity Framework Core 101 (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX7uTkjYwvCJDG2qhcSzwZ6 "Entity Framework Core 101 - Entity Framework Core is an Object-Relational Mapper that simplifies working with relational databases using strongly-typed .NET objects. This 101-level, intro video series will walk you getting started with EF, building an ASP.NET Core Web Apps with EF Core, and performance tips to help you along the way!")
+    1. [ASP.NET core tutorial for beginners (kudvenkat-youtube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
+    1. [Design Patterns tutorial for beginners (kudvenkat-youtube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
+    1. [ASP.NET Core 101 (Microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oW8nviYduHq7bmKode-p8Wy "ASP.NET Core 101 - ASP.NET is an open source web framework, created by Microsoft, for building modern web apps and services with .NET. In this introductory video series, Scott Hanselman and Leslie Richardson explain how to utilize the right tools for building your ASP.NET Core website. Including Blazor components and publishing your website to Azure!")
     1. [Create a web app with ASP.NET Core MVC (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/Tutorials/first-mvc-app/?view=aspnetcore-3.1)
     1. [Overview of ASP.NET Core MVC (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-3.1)
     1. [ASP.NET Core MVC with EF Core - tutorial series (Tutorial-docs.microsoft.com)](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/?view=aspnetcore-3.1)
@@ -64,17 +63,16 @@ Menu: [Home](./README.md)
 ### Web API
 
 1. Tutorials
-    1. [.NET Core 2.2 Web API Jump Start for Beginners (Microsoft-YouTube.com))](https://www.youtube.com/watch?v=s3H2mfkOi9g "A short tutorial on how to create a .NET Core 2.2 Web API fast.")
-    1. [ASP.NET Web API Design Tutorials (Microsoft-YouTube.com))](https://www.youtube.com/watch?v=kN8IiQWQfVU "ASP.NET Web API Design Tutorials - This course introduces the basics of the ASP.NET Web API. The ASP.NET Web API is a rich, flexible framework for building HTTP based endpoints and client. ASP.NET Web API is a framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices. ASP.NET Web API is an ideal platform for building RESTful applications on the .NET Framework.")
-    1. [ASP.NET Web API tutorial for beginners (kudvenkat-YouTube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhW7yoUOGNOfHurUE6bpOO2b)
+    1. [.NET Core 2.2 Web API Jump Start for Beginners (Microsoft-youtube.com))](https://www.youtube.com/watch?v=s3H2mfkOi9g "A short tutorial on how to create a .NET Core 2.2 Web API fast.")
+    1. [ASP.NET Web API tutorial for beginners (kudvenkat-youtube.com)](https://www.youtube.com/playlist?list=PL6n9fhu94yhW7yoUOGNOfHurUE6bpOO2b)
 
 ### Python
 
 1. Tutorials
     1. [Python Core and Advanced (udemy.com)](https://www.udemy.com/course/python-core-and-advanced/ "Free 8.5 - Whether you are a College student learning the fundamentals of Python or a Data Science expert using python to analyze your data or a Web Developer using python frameworks like DJango or a Experienced python developer who wants to fill in the gaps , this course will help you accomplish your goals.")
-    1. [Programming with Python (Microsoft Developer-YouTube.com)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-    1. [Python Tutorial for Beginners 2019 [Full Course] (Mosh-YouTube.com)](https://www.YouTube.com/watch?v=_uQrJ0TkZlc)
-    1. [Python Tutorials (Mosh-YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f)
+    1. [Programming with Python (Microsoft Developer-youtube.com)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+    1. [Python Tutorial for Beginners 2019 [Full Course] (mosh-youtube.com)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+    1. [Python Tutorials (mosh-youtube.com)](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f)
     1. [Python for Everyone (udemy.com)](https://www.udemy.com/python-for-every1/ "This course created for Data Science, AI , ML, DL , Automation Testers, Big Data , Web Developer Aspirants etc")
     1. [Introduction to Python Programming (udacity.com)](https://www.udacity.com/course/introduction-to-python--ud1110 "In this course, you'll learn the fundamentals of the Python programming language, along with programming best practices.")
     1. [Programming Foundations with Python (udacity.com)](https://www.udacity.com/course/programming-foundations-with-python--ud036 "Introductory programming class to learn Object-Oriented Programming, a must-have technique to reuse and share code easily. Learn by making projects that spread happiness!")
@@ -106,7 +104,6 @@ Menu: [Home](./README.md)
     1. [Try Django 2.2 - Web Development with Python 3.6+ (udemy.com)](https://www.udemy.com/course/try-django-2-2-python-web-development/ "Learn by doing in building a Web Application with Python #1 Web Framework: Django.")
     1. [How to Build an E-commerce Website with Django and Python (youtube.com)](https://www.youtube.com/watch?v=YZvRrldjf1Y "Learn how to build an E-commerce website with Django and Python.")
     1. [Python Django Web Framework - Full Course for Beginners (youtube.com)](https://www.youtube.com/watch?v=F5mRW0jo-U4 "Learn the Python Django framework with this free full course. Django is an extremely popular and fully featured server-side web framework, written in Python. Django allows you to quickly create web apps.")
-    1. [Flask Tutorial Step by Step (udemy.com)](https://www.udemy.com/course/python-flask-tutorial-step-by-step/ "Learn to create your first website and RESTful API using Python and Flask.")
 1. Reading Resources
     1. [Automate the Boring Stuff with Python (e-book)](http://automatetheboringstuff.com/ "Practical programming for total beginners.")
     1. [Cannot install or upgrade pip "ssl error" (article)](https://github.com/pypa/pip/issues/5448 'Cannot install or upgrade pip "ssl error"')
@@ -114,19 +111,19 @@ Menu: [Home](./README.md)
 ### Node
 
 1. Tutorials
-    1. [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh (Mosh-YouTube.com)](https://www.YouTube.com/watch?v=TlB_eWDSMt4&list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud&index=5)
-    1. [Node.jsTutorials (YouTube.com)](https://www.YouTube.com/playlist?list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm)
-    1. [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh (Mosh-YouTube.com)](https://www.YouTube.com/watch?v=pKd0Rpw7O48&list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud&index=6)
-    1. [The MERN Stack Tutorial - Building A React CRUD Application From Start To Finish (CodingTheSmartWay-YouTube.com)](https://www.YouTube.com/playlist?list=PL2dKqfImstaRbG8WIBkeHyV1ic5dyiEMj)
+    1. [Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh (mosh-youtube.com)](https://www.youtube.com/watch?v=TlB_eWDSMt4&list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud&index=5)
+    1. [Node.jsTutorials (youtube.com)](https://www.youtube.com/playlist?list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm)
+    1. [Express.js Tutorial: Build RESTful APIs with Node and Express | Mosh (mosh-youtube.com)](https://www.youtube.com/watch?v=pKd0Rpw7O48&list=PLTjRvDozrdlynYXGUfyyMZdrQ0Sz27aud&index=6)
+    1. [The MERN Stack Tutorial - Building A React CRUD Application From Start To Finish (CodingTheSmartWay-youtube.com)](https://www.youtube.com/playlist?list=PL2dKqfImstaRbG8WIBkeHyV1ic5dyiEMj)
 
 ### Windows Server
 
 1. Tutorials
-    1. [Learn Windows Server 2016 (Microsoft-YouTube.com)](https://www.YouTube.com/playlist?list=PLsrZV8shpwjMmq9hw_vlpDswWWw8jGJnZ "Learn Windows Server 2016 - Considering Windows Server 2016? In this helpful course, get the details about the features and functionality that have been added to this new version of Windows Server, along with those that were modified from previous versions.")
-    1. [Windows Server 2016 Administration Full Course (CEH IT Trainer-YouTube.com)](https://www.youtube.com/playlist?list=PLYogJ_kxL1wTesq-vNxEc8tjDOHvszeWf "Windows Server 2016 Administration Full Course")
+    1. [Learn Windows Server 2016 (microsoft-youtube.com)](https://www.youtube.com/playlist?list=PLsrZV8shpwjMmq9hw_vlpDswWWw8jGJnZ "Learn Windows Server 2016 - Considering Windows Server 2016? In this helpful course, get the details about the features and functionality that have been added to this new version of Windows Server, along with those that were modified from previous versions.")
+    1. [Windows Server 2016 Administration Full Course (ceh it trainer-youtube.com)](https://www.youtube.com/playlist?list=PLYogJ_kxL1wTesq-vNxEc8tjDOHvszeWf "Windows Server 2016 Administration Full Course")
 
 ### Containers
 
 1. Tutorials
-    1. [Docker (YouTube.com)](https://www.YouTube.com/playlist?list=PL2dKqfImstaSUBZzxmwJqDe99_BGoCvwo)
-    1. [Docker and .NET Core 101 (dotNet-YouTube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)
+    1. [Docker (youtube.com)](https://www.youtube.com/playlist?list=PL2dKqfImstaSUBZzxmwJqDe99_BGoCvwo)
+    1. [Docker and .NET Core 101 (dotNet-youtube.com)](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)
