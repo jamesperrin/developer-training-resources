@@ -2,6 +2,8 @@
 
 Repository containing different training resources for anyone wishing to learning development.
 
+[Please create an issue to request changes](https://github.com/jamesperrin/developer-training-resources/issues)
+
 ## Resources
 
 1. [Web Developer Required Knowledge](./web-developer-required-knowledge.md)
