@@ -2,7 +2,7 @@
 
 Repository containing different training resources for anyone wishing to learning development.
 
-[Please create an issue to request changes](https://github.com/jamesperrin/developer-training-resources/issues)
+[Please create an issue to request changes.](https://github.com/jamesperrin/developer-training-resources/issues)
 
 ## Resources
 
